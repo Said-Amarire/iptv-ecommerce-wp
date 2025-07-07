@@ -12,7 +12,7 @@
 **IPTVero** is a **professional IPTV subscription website** crafted using **WordPress**, **WooCommerce**, and **Elementor Pro**.  
 It serves customers worldwide with a seamless, modern, and fully customized shopping experience.
 
-> ⚙️ _Translations are handled via a WordPress translation plugin (e.g., WPML or Google Translate plugin), no manual JSON files are used._
+> ⚙️ _Translations are handled via a WordPress translation plugin (Google Translate plugin), no manual JSON files are used._
 
 ---
 
