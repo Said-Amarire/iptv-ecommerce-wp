@@ -1,3 +1,5 @@
+![IPTVero Preview](https://raw.githubusercontent.com/Said-Amarire/iptv-ecommerce-wp/refs/heads/main/iptvero1.webp)
+
 <h1 align="center">🌟 IPTVero – Premium IPTV Subscription Website</h1>
 
 <p align="center">
